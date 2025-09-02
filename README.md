@@ -1,1 +1,0 @@
-# Fridge-Price-Dataset
